@@ -1,0 +1,588 @@
+,Name,twi_handle,Party
+0,Adam Afriyie,@AdamAfriyie,Conservative
+1,Alan Duncan,@AlanDuncanMP,Conservative
+2,Alan Mak,@AlanMakMP,Conservative
+3,Alberto Costa,@AlbertoCostaMP,Conservative
+4,Alec Shelbrooke,@AlecShelbrooke,Conservative
+5,Alex Burghart,@alexburghart,Conservative
+6,Alex Chalk,@AlexChalkChelt,Conservative
+7,Alok Sharma,@AlokSharma_RDG,Conservative
+8,Alun Cairns,@AlunCairns,Conservative
+9,Amanda Milling,@amandamilling,Conservative
+10,Amber Rudd,@AmberRuddHR,Conservative
+11,Andrea Jenkyns,@andreajenkyns,Conservative
+12,Andrea Leadsom,@andrealeadsom,Conservative
+13,Andrew Bowie,@AndrewBowieMP,Conservative
+14,Andrew Bridgen,@ABridgen,Conservative
+15,Andrew Jones,@AJonesMP,Conservative
+16,Andrew Lewer,@ALewerMBE,Conservative
+17,Andrew Rosindell,@AndrewRosindell,Conservative
+18,Andrew Selous,@AndrewSelous,Conservative
+19,Andrew Stephenson,@Andrew4Pendle,Conservative
+20,Anne Marie Morris,@AnneMarieMorris,Conservative
+21,Anne-Marie Trevelyan,@annietrev,Conservative
+22,Ben Bradley,@bbradleymp,Conservative
+23,Ben Wallace,@BWallaceMP,Conservative
+24,Bernard Jenkin,@bernardjenkin,Conservative
+25,Bim Afolami,@BimAfolami,Conservative
+26,Bob Blackman,@BobBlackman,Conservative
+27,Bob Seely,@IoWBobSeely,Conservative
+28,Boris Johnson,@BorisJohnson,Conservative
+29,Brandon Lewis,@BrandonLewis,Conservative
+30,Caroline Dinenage,@cj_dinenage,Conservative
+31,Caroline Spelman,@spelmanc,Conservative
+32,Cheryl Gillan,@CherylGillan,Conservative
+33,Chloe Smith,@NorwichChloe,Conservative
+34,Chris Green,@CGreenUK,Conservative
+35,Chris Heaton-Harris,@chhcalling,Conservative
+36,Chris Philp,@CPhilpOfficial,Conservative
+37,Chris Skidmore,@CSkidmoreUK,Conservative
+38,Christopher Pincher,@ChrisPincher,Conservative
+39,Claire Perry,@claireperrymp,Conservative
+40,Colin Clark,@Colin_J_Clark,Conservative
+41,Conor Burns,@ConorBurnsUK,Conservative
+42,Craig Mackinlay,@cmackinlay,Conservative
+43,Craig Tracey,@craig4nwarks,Conservative
+44,Craig Whittaker,@CWhittakerMP,Conservative
+45,Crispin Blunt,@CrispinBlunt,Conservative
+46,Damian Collins,@DamianCollins,Conservative
+47,Damian Green,@DamianGreen,Conservative
+48,Damian Hinds,@DamianHinds,Conservative
+49,Damien Moore,@damienmooremp,Liberal Democrats
+50,Daniel Kawczynski,@DKShrewsbury,Conservative
+51,David Amess,@amessd_southend,Conservative
+52,David Davis,@daviddavismp,Conservative
+53,David Duguid,@daviddaguidmp,Conservative
+54,David Evennett,@DavidEvennett,Conservative
+55,David Jones,@DavidJonesMP,Conservative
+56,David Lidington,@DLidington,Conservative
+57,David Morris,@davidmorrisml,Conservative
+58,David Mundell,@DavidMundellDCT,Conservative
+59,David Rutley,@DavidRutley,Conservative
+60,David T. C. Davies,@DavidTCDavies,Conservative
+61,David Warburton,@DJWarburton,Conservative
+62,Derek Thomas,@DerekThomasUK,Conservative
+63,Desmond Swayne,@DesmondSwayne,Conservative
+64,Dominic Raab,@DominicRaab,Conservative
+65,Douglas Ross,@Douglas4Moray,Conservative
+66,Dr Andrew Murrison,@AWMurrison,Conservative
+67,Dr Caroline Johnson,@drcarolinej,Conservative
+68,Dr Liam Fox,@LiamFox,Conservative
+69,Dr Thérèse Coffey,@theresecoffey,Conservative
+70,Eddie Hughes,@EddieHughes4WN,Conservative
+71,Edward Leigh,@EdwardLeighMP,Conservative
+72,Eleanor Laing,@eleanor4epping,Conservative
+73,Elizabeth Truss,@trussliz,Conservative
+74,Esther McVey,@EstherMcVey1,Conservative
+75,Gary Streeter,@garystreeterSWD,Conservative
+76,Gavin Williamson,@GavinWilliamson,Conservative
+77,Geoffrey Cox QC,@geoffrey_cox,Conservative
+78,George Freeman,GeorgeFreemanMP,Conservative
+79,George Hollingbery,@GHollingbery,Conservative
+80,Giles Watling,@GilesWatling,Independent
+81,Gillian Keegan,@GillianKeegan,Conservative
+82,Glyn Davies,@GlynDavies,Conservative
+83,Graham Stuart,@grahamstuart,Conservative
+84,Grant Shapps,@grantshapps,Conservative
+85,Greg Hands,@GregHands,Conservative
+86,Greg Knight,@GregKnight,Conservative
+87,Guy Opperman,@GuyOpperman,Conservative
+88,Harriett Baldwin,@hbaldwin,Conservative
+89,Heather Wheeler,@HeatherWheeler,Conservative
+90,Helen Grant,@HelenGrantMP,Conservative
+91,Helen Whately,@Helen_Whately,Conservative
+92,Henry Smith,@HenrySmithUK,Conservative
+93,Hugo Swire,@HugoSwire,Conservative
+94,Huw Merriman,@HuwMerriman,Conservative
+95,Iain Duncan Smith,@MPIainDS,Conservative
+96,Iain Stewart,@iainastewart,Conservative
+97,Jack Lopresti,@JackLopresti,Conservative
+98,Jackie Doyle-Price,@JackieDP,Conservative
+99,Jacob Rees-Mogg,@Jacob_Rees_Mogg,Conservative
+100,Jake Berry,@JakeBerry,Conservative
+101,James Brokenshire,@JBrokenshire,Conservative
+102,James Cartlidge,@jc4southsuffolk,Conservative
+103,James Cleverly,@JamesCleverly,Conservative
+104,James Duddridge,@JamesDuddridge,Conservative
+105,James Gray,@JGray,Conservative
+106,James Heappey,@JSHeappey,Conservative
+107,James Morris,@JamesMorris,Conservative
+108,Jeremy Hunt,@Jeremy_Hunt,Conservative
+109,Jeremy Lefroy,@JeremyLefroy,Conservative
+110,Jeremy Wright,@DCMS_SecOfState,Conservative
+111,Jesse Norman,@Jesse_Norman,Conservative
+112,Jo Churchill,@Jochurchill4,Conservative
+113,John Glen,@JohnGlenUK,Conservative
+114,John Howell,@JHowellUK,Conservative
+115,John Lamont,@John2Win,Scottish National
+116,John Penrose,@johnpenrosenews,Conservative
+117,John Redwood,@johnredwood,Conservative
+118,John Stevenson,@JohnStevensonMP,Conservative
+119,John Whittingdale,@JWhittingdale,Conservative
+120,Johnny Mercer,@JohnnyMercerUK,Conservative
+121,Jonathan Djanogly,@JDjanogly,Conservative
+122,Jonathan Lord,@JonathanLord,Conservative
+123,Joseph Johnson,@JoJohnsonUK,Conservative
+124,Julia Lopez,@JuliaLopezMP,Conservative
+125,Julian Knight,@julianknight15,Conservative
+126,Julian Smith,@JulianSmithUK,Conservative
+127,Justin Tomlinson,@JustinTomlinson,Conservative
+128,Keith Simpson,@KeithSimpsonMP,Conservative
+129,Kelly Tolhurst,@KellyTolhurst,Conservative
+130,Kemi Badenoch,@KemiBadenoch,Conservative
+131,Kevin Foster,@kevin_j_foster,Conservative
+132,Kevin Hollinrake,@kevinhollinrake,Conservative
+133,Kirstene Hair,@Kirstene4Angus,Scottish National
+134,Kit Malthouse,@kitmalthouse,Conservative
+135,Kwasi Kwarteng,@KwasiKwarteng,Conservative
+136,Laurence Robertson,@lrobertsonTewks,Conservative
+137,Lee Benjamin Rowley,@Lee4NED,Conservative
+138,Leo Docherty,@LeoDochertyUK,Conservative
+139,Lucy Allan,@lucyallan,Conservative
+140,Lucy Frazer,@lucyfrazermp,Conservative
+141,Luke Graham,@LukeGrahamMP,Conservative
+142,Luke Hall,@LukeHall,Conservative
+143,Maggie Throup,@maggie_erewash,Conservative
+144,Marcus Fysh,@MarcusFysh,Conservative
+145,Marcus Jones,@Marcus4Nuneaton,Conservative
+146,Maria Caulfield,@mariacaulfield,Conservative
+147,Maria Miller,@MariaMillerUK,Conservative
+148,Mark Field,@MarkFieldUK,Conservative
+149,Mark Garnier,@Mark4WyreForest,Conservative
+150,Mark Harper,@Mark_J_Harper,Conservative
+151,Mark Lancaster,@MarkLancasterMK,Conservative
+152,Mark Pawsey,@MarkPawsey,Conservative
+153,Mark Prisk,@PriskMark,Conservative
+154,Mark Pritchard,@MPritchardUK,Conservative
+155,Mark Spencer,@Mark_Spencer,Conservative
+156,Martin Vickers,@MartinVickers,Conservative
+157,Mary Robinson,@MaryRobinson01,Conservative
+158,Matt Warman,@mattwarman,Conservative
+159,Matthew Hancock,@MattHancock,Conservative
+160,Matthew Offord,@Offord4Hendon,Conservative
+161,Mel Stride,@MelJStride,Conservative
+162,Michael Ellis,@Michael_Ellis1,Conservative
+163,Michael Fabricant,@Mike_Fabricant,Conservative
+164,Michael Gove,@michaelgove,Conservative
+165,Michael Tomlinson,@Michael4MDNP,Conservative
+166,Michelle Donelan,@michelledonelan,Conservative
+167,Mike Wood,@mikejwood,Conservative
+168,Mims Davies,@mimsdavies,Conservative
+169,Nadhim Zahawi,@nadhimzahawi,Conservative
+170,Nadine Dorries,@NadineDorries,Conservative
+171,Neil O'Brien,@NeilDotObrien,Conservative
+172,Neil Parish,@neil_parish,Conservative
+173,Nick Gibb,@NickGibbUK,Conservative
+174,Nick Herbert,@nickherbertmp,Conservative
+175,Nick Hurd,@NickHurdUK,Conservative
+176,Nicky Morgan,@NickyMorgan01,Conservative
+177,Nigel Adams,@nadams,Conservative
+178,Nigel Evans,@nigelmp,Conservative
+179,Nigel Huddleston,@HuddlestonNigel,Conservative
+180,Nigel Mills,@nigelmills,Conservative
+181,Nusrat Ghani,@Nus_Ghani,Conservative
+182,Oliver Heald QC,@OliverHealdUK,Conservative
+183,Owen Paterson,@OwenPaterson,Conservative
+184,Patrick McLoughlin,@Patrick4Dales,Conservative
+185,Paul Masterton,@PM4EastRen,Scottish National
+186,Paul Maynard,@PaulMaynardUK,Conservative
+187,Paul Scully,@scullyp,Conservative
+188,Pauline Latham,@Pauline_Latham,Conservative
+189,Penny Mordaunt,@PennyMordaunt,Conservative
+190,Peter Aldous,@peter_aldous,Conservative
+191,Peter Bone,@PeterBoneUK,Conservative
+192,Peter Heaton-Jones,@PeterNorthDevon,Conservative
+193,Philip Davies,@PhilipDaviesUK,Conservative
+194,Philip Dunne,@Dunne4Ludlow,Labour
+195,Priti Patel,@patel4witham,Conservative
+196,Rachel Maclean,@redditchrachel,Conservative
+197,Ranil Jayawardena,@TeamRanil,Conservative
+198,Rebecca Harris,@RebeccaHarrisMP,Conservative
+199,Rebecca Pow,@pow_rebecca,Conservative
+200,Rehman Chishti,@Rehman_Chishti,Conservative
+201,Richard Bacon,@richardbaconmp,Conservative
+202,Richard Graham,@RichardGrahamUK,Conservative
+203,Rishi Sunak,@RishiSunak,Conservative
+204,Robert Buckland,@RobertBuckland,Conservative
+205,Robert Courts,@robertcourts,Conservative
+206,Robert Halfon,@halfon4harlowMP,Conservative
+207,Robert Jenrick,@RobertJenrick,Conservative
+208,Robert Neill,@neill_bob,Conservative
+209,Robert Syms,@RobertSyms,Conservative
+210,Robin Walker,@WalkerWorcester,Conservative
+211,Roger Gale,@SirRogerGaleMP,Conservative
+212,Ross Thomson,@RossThomson_MP,Scottish National
+213,Royston Smith,@Royston_Smith,Conservative
+214,Sajid Javid,@sajidjavid,Conservative
+215,Sarah Newton,@SNewtonUK,Conservative
+216,Scott Mann,@scottmann4NC,Conservative
+217,Seema Kennedy,@SeemaKennedy,Conservative
+218,Shailesh Vara,@ShaileshVara,Conservative
+219,Sheryll Murray,@sheryllmurray,Conservative
+220,Simon Clarke,@SimonClarkeMP,Conservative
+221,Simon Hart,@Simonhartmp,Conservative
+222,Simon Hoare,@Simon4NDorset,Conservative
+223,Stephen Barclay,@SteveBarclay,Conservative
+224,Stephen Crabb,@SCrabbPembs,Conservative
+225,Stephen Kerr,@stephenkerrMP,Scottish National
+226,Stephen McPartland,@SMcPartland,Conservative
+227,Stephen Metcalfe,@Metcalfe_SBET,Conservative
+228,Steve Double,@stevedouble,Conservative
+229,Steven Baker,@SteveBakerHW,Conservative
+230,Stuart Andrew,@StuartAndrew,Conservative
+231,Suella Fernandes,@SuellaBraverman,Conservative
+232,Theresa May,@theresa_may,Conservative
+233,Tim Loughton,@timloughton,Conservative
+234,Tobias Ellwood,@Tobias_Ellwood,Conservative
+235,Tom Pursglove,@VotePursglove,Conservative
+236,Tom Tugendhat,@TomTugendhat,Conservative
+237,Tracey Crouch,@tracey_crouch,Conservative
+238,Vicky Ford,@vickyford,Conservative
+239,Victoria Prentis,@VictoriaPrentis,Conservative
+240,Wendy Morton,@morton_wendy,Conservative
+241,Will Quince,@willquince,Conservative
+242,William Cash,@BillCashMP,Conservative
+243,William Wragg,@William_Wragg,Conservative
+244,Zac Goldsmith,@ZacGoldsmith,Liberal Democrats
+245,David Simpson,@DavidSimpsonDUP,Democratic Unionist
+246,Emma Little-Pengelly,@little_pengelly,Social Democratic and Labour
+247,Gavin Robinson,@GRobinsonDUP,Democratic Unionist
+248,Jeffrey M. Donaldson,@J_Donaldson_MP,Democratic Unionist
+249,Jim Shannon,@JimShannonMP,Democratic Unionist
+250,Nigel Dodds,@NigelDoddsDUP,Democratic Unionist
+251,Paul Girvan,@PaulGirvanMP,Ulster Unionist
+252,Sammy Wilson,@eastantrimmp,Democratic Unionist
+253,Caroline Lucas,@CarolineLucas,Green  of England and Wales
+254,Alistair Burt,@AlistairBurtUK,Conservative
+255,Angela Smith,@angelasmithmp,Liberal Democrats
+256,Anne Milton,@AnneMilton,Conservative
+257,Antoinette Sandbach,@Sandbach,Conservative
+258,Caroline Nokes,@carolinenokes,Conservative
+259,Charlie Elphicke,@CharlieElphicke,Conservative
+260,Chris Williamson,@DerbyChrisW,Independent
+261,David Gauke,@DavidGauke,Conservative
+262,Edward Vaizey,@edvaizey,Independent
+263,Frank Field,@frankfieldteam,Others
+264,Gavin Shuker,@gavinshuker,Labour Co-operative
+265,Greg Clark,@GregClarkMP,Conservative
+266,Guto Bebb,@GutoAberconwy,Conservative
+267,Heidi Allen,@heidiallen75,Conservative
+268,Ian Austin,@IanAustinMP,Labour
+269,Ivan Lewis,@IvanLewis_MP,Labour
+270,Jared O'Mara,@jaredomaramp,Liberal Democrats
+271,John Woodcock,@JWoodcockMP,Independent
+272,Justine Greening,@JustineGreening,Conservative
+273,Margot James,@margot_james_mp,Conservative
+274,Nicholas Soames,@NSoames,Conservative
+275,Nick Boles,@NickBoles,Independent
+276,Oliver Letwin,@oletwinofficial,Independent
+277,Philip Hammond,@PhilipHammondUK,Conservative
+278,Richard Benyon,@RichardBenyonMP,Conservative
+279,Richard Harrington,@Richard4Watford,Independent
+280,Rory Stewart,@RoryStewartUK,Conservative
+281,Sam Gyimah,@SamGyimah,Conservative
+282,Stephen Hammond,@S_Hammond,Conservative
+283,Stephen Lloyd,@StephenLloydEBN,Conservative
+284,Steve Brine,@BrineMinister,Conservative
+285,Adrian Bailey,@AdrianBaileyMP,Labour Co-operative
+286,Afzal Khan,@Afzal4Gorton,Labour Co-operative
+287,Alan Campbell,@alancampbellmp,Labour
+288,Albert Owen,@AlbertOwenMP,Labour
+289,Alex Cunningham,@ACunninghamMP,Labour
+290,Alex Norris,@ANorrisMP,Labour
+291,Alex Sobel,@alexsobel,Liberal Democrats
+292,Alison McGovern,@Alison_McGovern,Labour
+293,Andrew Gwynne,@GwynneMP,Labour
+294,Andy McDonald,@AndyMcDonaldMP,Labour
+295,Andy Slaughter,@hammersmithandy,Labour
+296,Angela Eagle,@angelaeagle,Labour
+297,Angela Rayner,@AngelaRayner,Labour
+298,Ann Clwyd,@AnnClwyd,Labour
+299,Anna McMorrin,@annamcmorrin,Conservative
+300,Anna Turley,@annaturley,Labour Co-operative
+301,Anneliese Dodds,@AnnelieseDodds,Labour
+302,Bambos Charalambous,@BambosMP,Conservative
+303,Barbara Keeley,@KeeleyMP,Labour
+304,Barry Gardiner,@BarryGardiner,Labour
+305,Barry Sheerman,@BarrySheerman,Labour Co-operative
+306,Ben Bradshaw,@BenPBradshaw,Labour
+307,Bill Esterson,@Bill_Esterson,Labour
+308,Bridget Phillipson,@bphillipsonMP,Labour
+309,Caroline Flint,@CarolineFlintMP,Labour
+310,Carolyn Harris,@carolynharris24,Labour
+311,Cat Smith,@CatSmithMP,Labour
+312,Catherine McKinnell,@CatMcKinnell,Labour
+313,Catherine West,@CatherineWest1,Labour
+314,Chi Onwurah,@ChiOnwurah,Labour
+315,Chris Bryant,@RhonddaBryant,Labour
+316,Chris Elmore,@CPJElmore,Labour
+317,Chris Ruane,@Chris_RuaneMP,Conservative
+318,Christian Matheson,@ChrisM4Chester,Labour
+319,Christina Rees,@Rees4Neath,Labour
+320,Christopher Evans,@ChrisEvansMP,Labour Co-operative
+321,Clive Efford,@CliveEfford,Labour
+322,Clive Lewis,@labourlewis,Labour
+323,Conor McGinn,@ConorMcGinn,Labour
+324,Dan Carden,@DanCardenMP,Labour
+325,Dan Jarvis,@DanJarvisMP,Labour
+326,Daniel Zeichner,@DanielZeichner,Labour
+327,Danielle Rowley,@DaniRowley,Scottish National
+328,Darren Jones,@darrenpjones,Labour
+329,David Crausby,@DavidCrausby,Labour
+330,David Drew,@DavidEDrew,Labour Co-operative
+331,David Hanson,@DavidHansonMP,Labour
+332,David Lammy,@DavidLammy,Labour
+333,Dawn Butler,@DawnButlerBrent,Labour
+334,Debbie Abrahams,@Debbie_abrahams,Labour
+335,Derek Twigg,@DerekTwiggMP,Labour
+336,Diana Johnson,@DianaJohnsonMP,Labour
+337,Diane Abbott,@HackneyAbbott,Labour
+338,Dr Alan Whitehead,@alanwhiteheadmp,Labour
+339,Dr Roberta Blackman-Woods,@robertabwMP,Labour
+340,Dr Rosena Allin-Khan,@DrRosena,Labour
+341,Dr Rupa Huq,@RupaHuq,Labour
+342,Edward Miliband,@Ed_Miliband,Labour
+343,Eleanor Smith,@Eleanor_SmithMP,Labour
+344,Ellie Reeves,@elliereeves,Labour
+345,Emily Thornberry,@EmilyThornberry,Labour
+346,Emma Dent Coad,@emmadentcoad,Conservative
+347,Emma Hardy,@EmmaHardyMP,Labour
+348,Emma Lewell-Buck,@EmmaLewellBuck,Labour
+349,Emma Reynolds,@EmmaReynoldsMP,Labour
+350,Fabian Hamilton,@FabianLeedsNE,Labour
+351,Faisal Rashid,@FaisalRashid6,Conservative
+352,Gareth Snell,@gareth_snell,Labour Co-operative
+353,Gareth Thomas,@GarethThomasMP,Labour Co-operative
+354,Geoffrey Robinson,@Geoffrey4CovNW,Labour
+355,Geraint Davies,@GeraintDaviesMP,Labour
+356,Gerald Jones,@GeraldJonesLAB,Labour
+357,Gerard Killen,@Gedk,Scottish National
+358,Gill Furniss,@GillFurnissMP,Labour
+359,Gloria De Piero,@GloriaDePiero,Labour
+360,Gordon Marsden,@GordonMarsden,Labour
+361,Graham Jones,@GrahamJones_MP,Labour
+362,Grahame Morris,@grahamemorris,Labour
+363,Harriet Harman QC,@harrietharman,Labour
+364,Helen Goodman,@HelenGoodmanMP,Labour
+365,Helen Hayes,@helenhayes_,Labour
+366,Helen Jones,@HelenJonesMP,Labour
+367,Hilary Benn,@hilarybennmp,Labour
+368,Holly Lynch,@hollylynch5,Labour
+369,Hugh Gaffney,@HughGaffneyMP,Scottish National
+370,Ian C. Lucas,@IanCLucas,Labour
+371,Ian Lavery,@IanLaveryMP,Labour
+372,Ian Mearns,@IanMearnsMP,Labour
+373,Ian Murray,@IanMurrayMP,Labour
+374,Imran Hussain,@Imran_HussainMP,Labour
+375,Jack Dromey,@JackDromeyMP,Labour
+376,James Frith,@JamesFrith,Conservative
+377,Janet Daby,@JanetDaby,Labour
+378,Jeff Smith,@JeffSmithetc,Labour
+379,Jenny Chapman,@JennyChapman,Labour
+380,Jeremy Corbyn,@jeremycorbyn,Labour
+381,Jess Phillips,@jessphillips,Labour
+382,Jessica Morden,@jessicamordenmp,Labour
+383,Jim Cunningham,@jimforcovsouth,Labour
+384,Jim Fitzpatrick,@FitzMP,Labour
+385,Jim McMahon,@JimfromOldham,Labour Co-operative
+386,Jo Platt,@JoPlattMP,Labour
+387,Jo Stevens,@JoStevensLabour,Labour
+388,John Cryer,@JohnCryerMP,Labour
+389,John Healey,@JohnHealey_MP,Labour
+390,John Mann,@JohnMannMP,Labour
+391,John McDonnell,@johnmcdonnellMP,Labour
+392,John Spellar,@spellar,Labour
+393,Jon Cruddas,@JonCruddas_1,Labour
+394,Jon Trickett,@jon_trickett,Labour
+395,Jonathan Ashworth,@JonAshworth,Labour Co-operative
+396,Jonathan Reynolds,@jreynoldsMP,Labour Co-operative
+397,Judith Cummins,@JudithCummins,Labour
+398,Julie Cooper,@JulieForBurnley,Labour
+399,Julie Elliott,@JulieElliottMP,Labour
+400,Justin Madders,@justinmadders,Labour
+401,Karen Buck,@KarenPBuckMP,Labour
+402,Karen Lee,@KarenLeeMP,Labour
+403,Karin Smyth,@karinsmyth,Labour
+404,Karl Turner,@KarlTurnerMP,Labour
+405,Kate Green,@KateGreenSU,Labour
+406,Kate Hoey,@KateHoeyMP,Labour
+407,Kate Hollern,@Kate_HollernMP,Labour
+408,Kate Osamor,@KateOsamor,Labour Co-operative
+409,Keir Starmer,@Keir_Starmer,Labour
+410,Keith Vaz,@Keith_Vaz_MP,Labour
+411,Kerry McCarthy,@KerryMP,Labour
+412,Kevan Jones,@KevanJonesMP,Labour
+413,Kevin Barron,@KevinBarronMP,Labour
+414,Kevin Brennan,@KevinBrennanMP,Labour
+415,Khalid Mahmood,@khalid4PB,Labour
+416,Laura Pidcock,@LauraPidcockMP,Labour
+417,Laura Smith,@LauraSmithMP,Labour
+418,Lesley Laird,@LesleyLaird,Scottish National
+419,Liam Byrne,@LiamByrneMP,Labour
+420,Lilian Greenwood,@LilianGreenwood,Labour
+421,Lindsay Hoyle,@LindsayHoyle_MP,Labour
+422,Lisa Forbes,@LisaForbes_,Labour
+423,Lisa Nandy,@lisanandy,Labour
+424,Liz Kendall,@leicesterliz,Labour
+425,Liz McInnes,@LizMcInnes_MP,Labour
+426,Liz Twist,@LizTwistMP,Labour
+427,Lloyd Russell-Moyle,@lloyd_rm,Conservative
+428,Louise Ellman,@LouiseEllman,Labour Co-operative
+429,Louise Haigh,@LouHaigh,Labour
+430,Lucy Powell,@LucyMPowell,Labour Co-operative
+431,Luke Pollard,@LukePollard,Conservative
+432,Lyn Brown,@lynbrownmp,Labour
+433,Madeleine Moon,@MadeleineMoon,Labour
+434,Margaret Greenwood,@MGreenwoodWW,Labour
+435,Margaret Hodge,@margarethodge,Labour
+436,Maria Eagle,@meaglemp,Labour
+437,Marie Rimmer,@MarieRimmer,Labour
+438,Mark Hendrick,@MpHendrick,Labour Co-operative
+439,Mark Tami,@MarkTamiMP,Labour
+440,Marsha de Cordova,@Marshadecordova,Conservative
+441,Martin Whitfield,@MartWhitfieldMP,Scottish National
+442,Mary Creagh,@MaryCreaghMP,Labour
+443,Mary Glindon,@GlindonMary,Labour
+444,Matt Rodda,@MattRodda,Conservative
+445,Matt Western,@MattWestern_,Conservative
+446,Matthew Pennycook,@mtpennycook,Labour
+447,Meg Hillier,@Meg_HillierMP,Labour Co-operative
+448,Melanie Onn,@OnnMel,Labour
+449,Mike Amesbury,@MikeAmesburyMP,Conservative
+450,Mike Hill,@MikeHillMP,Labour
+451,Mike Kane,@MikeKaneMP,Labour
+452,Mohammad Yasin,@yasinmpbedford,Labour
+453,Naz Shah,@NazShahBfd,Labour
+454,Neil Coyle,@coyleneil,Labour
+455,Nia Griffith,@NiaGriffithMP,Labour
+456,Nic Dakin,@NicDakinMP,Labour
+457,Nick Smith,@BlaenauGwentMP,Labour
+458,Nick Thomas-Symonds,@NickTorfaenMP,Labour
+459,Owen Smith,@OwenSmith_MP,Labour
+460,Pat McFadden,@patmcfaddenmp,Labour
+461,Paul Blomfield,@PaulBlomfieldMP,Labour
+462,Paul Daniel Williams,@PaulWilliamsMP,Labour
+463,Paul Sweeney,@PaulJSweeney,Scottish National
+464,Paula Sherriff,@paulasherriff,Labour
+465,Peter Dowd,@Peter_Dowd,Labour
+466,Peter Kyle,@peterkyle,Labour
+467,Phil Wilson,@MPphilwilson,Labour
+468,Preet Gill,@PreetKGillMP,Labour Co-operative
+469,Rachael Maskell,@RachaelMaskell,Labour Co-operative
+470,Rachel Reeves,@RachelReevesMP,Labour
+471,Rebecca Long-Bailey,@RLong_Bailey,Labour
+472,Richard Burden,@RichardBurdenMP,Labour
+473,Richard Burgon,@RichardBurgon,Labour
+474,Roger Godsiff,@RogerGodsiff,Labour
+475,Rosie Cooper,@rosie4westlancs,Labour
+476,Rosie Duffield,@RosieDuffield1,Conservative
+477,Rushanara Ali,@rushanaraali,Labour
+478,Ruth Cadbury,@RuthCadbury,Labour
+479,Ruth George,@RuthGeorge6,Conservative
+480,Ruth Jones,@RuthNewportWest,Labour
+481,Ruth Smeeth,@RuthSmeeth,Labour
+482,Sandy Martin,@sandyofipswich,Labour
+483,Sarah Champion,@SarahChampionMP,Labour
+484,Sarah Jones,@LabourSJ,Labour
+485,Seema Malhotra,@SeemaMalhotra1,Labour Co-operative
+486,Shabana Mahmood,@ShabanaMahmood,Labour
+487,Sharon Hodgson,@SharonHodgsonMP,Labour
+488,Siobhain McDonagh,@Siobhain_MP,Labour
+489,Stella Creasy,@stellacreasy,Labour Co-operative
+490,Stephanie Peacock,@Steph_Peacock,Labour
+491,Stephen Doughty,@SDoughtyMP,Labour Co-operative
+492,Stephen Hepburn,@jarrowstevemp,Labour
+493,Stephen Kinnock,@SKinnock,Labour
+494,Stephen Morgan,@StephenMorganMP,Labour
+495,Stephen Timms,@stephenctimms,Labour
+496,Stephen Twigg,@StephenTwigg,Labour Co-operative
+497,Steve McCabe,@steve_mccabe,Labour
+498,Steve Reed,@SteveReedMP,Labour Co-operative
+499,Sue Hayman,@SueHayman1,Labour
+500,Susan Elan Jones,@susanelanjones,Labour
+501,Tanmanjit Singh Dhesi,@TanDhesi,Labour
+502,Teresa Pearce,@tpearce003,Labour
+503,Thangam Debbonaire,@ThangamMP,Labour
+504,Thelma Walker,@Thelma_WalkerMP,Conservative
+505,Toby Perkins,@tobyperkinsmp,Labour
+506,Tom Watson,@tom_watson,Labour
+507,Tonia Antoniazzi,@ToniaAntoniazzi,Conservative
+508,Tony Lloyd,@tony4rochdale,Independent
+509,Tracy Brabin,@TracyBrabin,Labour Co-operative
+510,Tulip Siddiq,@TulipSiddiq,Labour
+511,Valerie Vaz,@Valerie_VazMP,Labour
+512,Vernon Coaker,@Vernon_Coaker,Labour
+513,Vicky Foxcroft,@vickyfoxcroft,Labour
+514,Virendra Sharma,@VirendraSharma,Labour
+515,Wayne David,@WayneDavid_MP,Labour
+516,Wes Streeting,@wesstreeting,Labour
+517,Yasmin Qureshi,@YasminQureshiMP,Labour
+518,Yvette Cooper,@YvetteCooperMP,Labour
+519,Yvonne Fovargue,@Y_FovargueMP,Labour
+520,Alistair Carmichael,@amcarmichaelMP,Liberal Democrats
+521,Christine Jardine,@cajardineMP,Independent
+522,Chuka Umunna,@ChukaUmunna,Labour
+523,Dr Phillip Lee,@DrPhillipLeeMP,Liberal Democrats
+524,Edward Davey,@EdwardJDavey,Liberal Democrats
+525,Jamie Stone,@Jamie4North,Liberal Democrats
+526,Jane Dodds,@DoddsJane,Liberal Democrats
+527,Jo Swinson,@joswinson,Scottish National
+528,Layla Moran,@laylamoran,Conservative
+529,Luciana Berger,@lucianaberger,Labour Co-operative
+530,Norman Lamb,@normanlamb,Liberal Democrats
+531,Sarah Wollaston,@sarahwollaston,Conservative
+532,Tim Farron,@timfarron,Liberal Democrats
+533,Tom Brake,@thomasbrake,Liberal Democrats
+534,Vincent Cable,@vincecable,Liberal Democrats
+535,Wera Hobhouse,@Wera_Hobhouse,Conservative
+536,Ben Lake,@BenMLake,Liberal Democrats
+537,Hywel Williams,@HywelPlaidCymru,Plaid Cymru
+538,Jonathan Edwards,@JonathanPlaid,Plaid Cymru
+539,Liz Saville Roberts,@lsrplaid,Plaid Cymru
+540,Alan Brown,@AlanBrownSNP,Scottish National
+541,Alison Thewliss,@alisonthewliss,Scottish National
+542,Angela Crawley,@AngelaCrawley30,Scottish National
+543,Angus MacNeil,@AngusMacNeilSNP,Scottish National
+544,Brendan O'Hara,@BrendanOHaraSNP,Scottish National
+545,Carol Monaghan,@CMonaghanSNP,Scottish National
+546,Chris Law,@ChrisLawSNP,Scottish National
+547,Chris Stephens,@ChrisStephens,Scottish National
+548,David Linden,@DavidLinden,Scottish National
+549,Deidre Brock,@DeidreBrock,Scottish National
+550,Douglas Chapman,@DougChapmanSNP,Scottish National
+551,Dr Lisa Cameron,@DrLisaCameronMP,Scottish National
+552,Dr Philippa Whitford,@Dr_PhilippaW,Scottish National
+553,Drew Hendry,@drewhendrySNP,Scottish National
+554,Gavin Newlands,@GavNewlandsSNP,Scottish National
+555,Hannah Bardell,@HannahB4LiviMP,Scottish National
+556,Ian Blackford,@IanBlackfordMP,Scottish National
+557,Joanna Cherry QC,@joannaccherry,Scottish National
+558,John Mc Nally,@JohnMcNallyMP,Scottish National
+559,Kirsty Blackman,@KirstySNP,Scottish National
+560,Marion Fellows,@marionfellows,Scottish National
+561,Martin Docherty-Hughes,@martinjdocherty,Scottish National
+562,Martyn Day,@MartynDaySNP,Scottish National
+563,Mhairi Black,@MhairiBlack,Scottish National
+564,Neil Gray,@NeilGrayMP,Scottish National
+565,Patricia Gibson,@PGibsonSNP,Scottish National
+566,Patrick Grady,@GradySNP,Scottish National
+567,Pete Wishart,@PeteWishart,Scottish National
+568,Peter Grant,@PeterGrantMP,Scottish National
+569,Ronnie Cowan,@ronniecowan,Scottish National
+570,Stephen Gethins,@StephenGethins,Scottish National
+571,Stewart Hosie,@StewartHosieSNP,Scottish National
+572,Stewart Malcolm McDonald,@StewartMcDonald,Scottish National
+573,Stuart C. McDonald,@Stuart_McDonald,Scottish National
+574,Tommy Sheppard,@TommySheppard,Scottish National
+575,Christopher Hazzard,@ChrisHazzardSF,Sinn Féin
+576,Elisha McCallion,@ElishaMcC_SF,Social Democratic and Labour
+577,Francie Molloy,@FrancieMolloy,Sinn Féin
+578,Michelle Gildernew,@gildernewm,Ulster Unionist
+579,Mickey Brady,@MickeyBradySF,Sinn Féin
+580,Órfhlaith Begley,@OrfhlaithBegley,Sinn Féin
+581,Paul Maskey,@PaulMaskeyMP,Sinn Féin
+582,Ann Coffey,@anncoffey_mp,Labour
+583,Anna Soubry,@Anna_Soubry,Conservative
+584,Chris Leslie,@ChrisLeslieMP,Others
+585,Joan Ryan,@joanryanEnfield,Labour
+586,Mike Gapes,@MikeGapes,Labour Co-operative
